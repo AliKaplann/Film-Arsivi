@@ -1,0 +1,11 @@
+C:\Users\alika\OneDrive\Masaüstü\Yazılım\C#\Projeler Klasörü\FilmArsivi\FilmArsivi\bin\Debug\FilmArsivi.exe.config
+C:\Users\alika\OneDrive\Masaüstü\Yazılım\C#\Projeler Klasörü\FilmArsivi\FilmArsivi\bin\Debug\FilmArsivi.exe
+C:\Users\alika\OneDrive\Masaüstü\Yazılım\C#\Projeler Klasörü\FilmArsivi\FilmArsivi\bin\Debug\FilmArsivi.pdb
+C:\Users\alika\OneDrive\Masaüstü\Yazılım\C#\Projeler Klasörü\FilmArsivi\FilmArsivi\obj\Debug\FilmArsivi.csproj.AssemblyReference.cache
+C:\Users\alika\OneDrive\Masaüstü\Yazılım\C#\Projeler Klasörü\FilmArsivi\FilmArsivi\obj\Debug\FilmArsivi.csproj.SuggestedBindingRedirects.cache
+C:\Users\alika\OneDrive\Masaüstü\Yazılım\C#\Projeler Klasörü\FilmArsivi\FilmArsivi\obj\Debug\FilmArsivi.Form1.resources
+C:\Users\alika\OneDrive\Masaüstü\Yazılım\C#\Projeler Klasörü\FilmArsivi\FilmArsivi\obj\Debug\FilmArsivi.Properties.Resources.resources
+C:\Users\alika\OneDrive\Masaüstü\Yazılım\C#\Projeler Klasörü\FilmArsivi\FilmArsivi\obj\Debug\FilmArsivi.csproj.GenerateResource.cache
+C:\Users\alika\OneDrive\Masaüstü\Yazılım\C#\Projeler Klasörü\FilmArsivi\FilmArsivi\obj\Debug\FilmArsivi.csproj.CoreCompileInputs.cache
+C:\Users\alika\OneDrive\Masaüstü\Yazılım\C#\Projeler Klasörü\FilmArsivi\FilmArsivi\obj\Debug\FilmArsivi.exe
+C:\Users\alika\OneDrive\Masaüstü\Yazılım\C#\Projeler Klasörü\FilmArsivi\FilmArsivi\obj\Debug\FilmArsivi.pdb
